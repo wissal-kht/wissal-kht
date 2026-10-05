@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Wissal 👋
 
-<!--
-**wissal-kht/wissal-kht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineering Student | Machine Learning & Deep Learning
 
-Here are some ideas to get you started:
+I'm a 5th-year AI Engineering student interested in
+Machine Learning, Deep Learning, and Computer Vision.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning AI concepts into practical projects
+and continuously improving my technical skills.
+
+## About Me
+
+- 🎓 5th-year AI Engineering student
+- 🤖 Interested in Machine Learning, Deep Learning, and Computer Vision
+- 🐍 Building projects with Python and TensorFlow
+- 🌱 Currently developing my practical skills through AI projects
+- 🚀 Interested in turning AI concepts into real-world applications
+
+## Tech Stack
+
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### AI & Data
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+### Backend & Tools
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## Currently Learning
+
+- 🧠 Deep Learning & Computer Vision
+- 🤗  NLP
+- ⚡ FastAPI for AI backends
+- 🐳 Docker & containerized applications
+- 🔧 Building end-to-end AI projects
