@@ -2,8 +2,8 @@
 
 ### AI Engineering Student | Machine Learning & Deep Learning
 
-I'm a 5th-year AI Engineering student interested in computer science
-Machine Learning, Deep Learning.
+I'm a 5th-year AI Engineering student interested in computer science ,
+Machine Learning and Deep Learning.
 
 I enjoy turning AI concepts into practical projects
 and continuously improving my technical skills.
