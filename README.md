@@ -53,12 +53,9 @@ and continuously improving my technical skills.
 
 An AI-powered web platform that detects plant diseases from a leaf photo and recommends a treatment. It also tracks cases by commune on a health map and sends weather-based risk alerts.
 
-- 9 crops, one DenseNet model per crop (TensorFlow / Keras)
-- Flask REST API with JWT authentication and user roles
-- SQLite database, analysis history, CSV export
-- Vanilla JavaScript frontend
 
-**Stack:** Python · TensorFlow · Flask · SQLite · JavaScript
+
+**Stack:** Python · TensorFlow · Flask · SQL · JavaScript
 
 ---
 
