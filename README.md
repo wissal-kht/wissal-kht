@@ -55,7 +55,7 @@ An AI-powered web platform that detects plant diseases from a leaf photo and rec
 - SQLite database, analysis history, CSV export
 - Vanilla JavaScript frontend
 
-**Stack:** Python · TensorFlow · Flask · SQLite · JavaScript
+**Stack:** Python · TensorFlow · Flask · SQL · JavaScript
 
 ---
 
