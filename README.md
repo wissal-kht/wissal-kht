@@ -1,10 +1,13 @@
-# Hi, I'm Wissal 👋
+# Hi , I'm Khentoul Wissal 👋
 
-I build **AI and web applications** with Python. I enjoy turning machine-learning models into tools people can actually use, from training a model to serving it through an API and a web interface.
+### AI Engineering Student | Machine Learning & Deep Learning
 
-🔭 Currently working on **PhytoSentinel**, an AI-powered plant disease detection platform for farmers
-🌱 Learning more about deep learning and deploying models in production
-💼 Looking for an **internship** in AI / software engineering
+I'm a 5th-year AI Engineering student interested in
+Machine Learning, Deep Learning, and Computer Vision.
+
+I enjoy turning AI concepts into practical projects
+and continuously improving my technical skills.
+
 
 ---
 
