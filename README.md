@@ -1,45 +1,66 @@
-# Hi, I'm Wissal 👋
+# Hi, I'm Khentoul Wissal 👋
 
-### AI Engineering Student | Machine Learning & Deep Learning
+I build **AI and web applications** with Python. I enjoy turning machine-learning models into tools people can actually use, from training a model to serving it through an API and a web interface.
 
-I'm a 5th-year AI Engineering student interested in computer science ,
-Machine Learning and Deep Learning.
+🔭 Currently working on **PhytoSentinel**, an AI-powered plant disease detection platform for farmers
+🌱 Learning more about deep learning and deploying models in production
+💼 Looking for an **internship** in AI / software engineering
 
-I enjoy turning AI concepts into practical projects
-and continuously improving my technical skills.
+---
 
-## About Me
+## 🛠️ My Tech Stack
 
--  5th-year AI Engineering student
--  Interested in Machine Learning, Deep Learning, and Computer Vision
--  Building projects with Python and TensorFlow
--  Currently developing my practical skills through AI projects
--  Interested in turning AI concepts into real-world applications
+**AI / ML**
 
-## Tech Stack
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge)
 
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+**Languages**
 
-### AI & Data
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+**Web / Backend**
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-## Currently Learning
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
--  Deep Learning & Computer Vision
--  NLP
--  FastAPI for AI backends
--  Docker & containerized applications
--  Building end-to-end AI projects
+**Databases**
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🌿 Featured Project
+
+### [PhytoSentinel](https://github.com/wissal-kht/PhytoSentinel)
+
+An AI-powered web platform that detects plant diseases from a leaf photo and recommends a treatment. It also tracks cases by commune on a health map and sends weather-based risk alerts.
+
+- 9 crops, one DenseNet model per crop (TensorFlow / Keras)
+- Flask REST API with JWT authentication and user roles
+- SQLite database, analysis history, CSV export
+- Vanilla JavaScript frontend
+
+**Stack:** Python · TensorFlow · Flask · SQLite · JavaScript
+
+---
+
+## 📫 Contact
+
+- GitHub: [@wissal-kht](https://github.com/wissal-kht)
+- Email: *khentoulwissal@gmail.com*
+- LinkedIn: *www.linkedin.com/in/wissal-khentoul-350357260*
