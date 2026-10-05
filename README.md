@@ -10,11 +10,11 @@ and continuously improving my technical skills.
 
 ## About Me
 
-- 🎓 5th-year AI Engineering student
-- 🤖 Interested in Machine Learning, Deep Learning, and Computer Vision
-- 🐍 Building projects with Python and TensorFlow
-- 🌱 Currently developing my practical skills through AI projects
-- 🚀 Interested in turning AI concepts into real-world applications
+-  5th-year AI Engineering student
+-  Interested in Machine Learning, Deep Learning, and Computer Vision
+-  Building projects with Python and TensorFlow
+-  Currently developing my practical skills through AI projects
+-  Interested in turning AI concepts into real-world applications
 
 ## Tech Stack
 
@@ -38,8 +38,8 @@ and continuously improving my technical skills.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ## Currently Learning
 
-- 🧠 Deep Learning & Computer Vision
-- 🤗  NLP
-- ⚡ FastAPI for AI backends
-- 🐳 Docker & containerized applications
-- 🔧 Building end-to-end AI projects
+-  Deep Learning & Computer Vision
+-  NLP
+-  FastAPI for AI backends
+-  Docker & containerized applications
+-  Building end-to-end AI projects
