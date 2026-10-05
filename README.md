@@ -38,7 +38,7 @@ and continuously improving my technical skills.
 
 **Databases**
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 **Tools**
 
