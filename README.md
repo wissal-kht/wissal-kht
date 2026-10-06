@@ -1,6 +1,6 @@
 # Hi, I'm Wissal Khentoul 👋
 
-### AI Engineering Student | Machine Learning | Deep Learning | Computer Vision
+### AI & Data Science Engineering Student | Machine Learning | Deep Learning | Web development
 
 I'm a 5th-year AI Engineering student passionate about building intelligent systems that solve real-world problems. My interests include Machine Learning, Deep Learning, Computer Vision, and applied AI in domains such as agriculture and healthcare.
 
