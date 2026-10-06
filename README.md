@@ -1,12 +1,14 @@
 # Hi, I'm Wissal Khentoul 👋
 
-### AI & Data Science Engineering Student | Machine Learning | Deep Learning | Web development
+### AI & Data Science Engineering Student | Machine Learning | Deep Learning | Web Development
 
-I'm a 5th-year AI Engineering student passionate about building intelligent systems that solve real-world problems. My interests include Machine Learning, Deep Learning, Computer Vision, and applied AI in domains such as agriculture and healthcare.
+I'm a 5th-year AI Engineering student passionate about building intelligent systems that solve real-world problems. My interests include Machine Learning, Deep Learning, Computer Vision, and applied Artificial Intelligence.
+
+I also enjoy developing responsive and interactive web applications using **HTML, CSS, and JavaScript**, as well as backend applications with Python, Flask, Node.js, and Express.js.
 
 I enjoy turning ideas into practical projects, learning by building, and continuously improving my technical skills.
 
-> Open to internships, collaborations, and innovative AI projects.
+> Open to internships, collaborations, and innovative AI and web development projects.
 
 ---
 
@@ -29,6 +31,12 @@ I enjoy turning ideas into practical projects, learning by building, and continu
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 
+### Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 ### Web / Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -46,16 +54,16 @@ I enjoy turning ideas into practical projects, learning by building, and continu
 
 ### [PhytoSentinel](https://github.com/wissal-kht/PhytoSentinel)
 
-An AI-powered web platform that detects plant diseases from leaf images and recommends appropriate treatments. It also tracks disease cases by commune on an interactive map and sends weather-based risk alerts.
+An AI-powered web platform that detects plant diseases from leaf images and recommends appropriate treatments. It also tracks disease cases by commune on an interactive map and sends weather-based risk notifications.
 
-**Stack:** Python · TensorFlow · Flask · SQL · JavaScript
+**Stack:** Python · TensorFlow · Flask · SQL · JavaScript · HTML · CSS
 
 ---
 
 ## 📌 Projects
 
 - [PhytoSentinel](https://github.com/wissal-kht/PhytoSentinel) — AI-based plant disease detection and treatment recommendation system.
-- [employee-management-frontend](https://github.com/wissal-kht/employee-management-frontend) — Frontend interface for employee management.
+- [employee-management-frontend](https://github.com/wissal-kht/employee-management-frontend) — Frontend interface for employee management using HTML, CSS, and JavaScript.
 - [qr-code-component-main](https://github.com/wissal-kht/qr-code-component-main) — Frontend challenge project implementing a QR code component.
 
 ---
@@ -67,5 +75,3 @@ An AI-powered web platform that detects plant diseases from leaf images and reco
 - LinkedIn: [Wissal Khentoul](https://www.linkedin.com/in/wissal-khentoul-350357260)
 
 ---
-
-
