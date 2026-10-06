@@ -68,6 +68,4 @@ An AI-powered web platform that detects plant diseases from leaf images and reco
 
 ---
 
-### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wissal-kht&show_icons=true&theme=default)
